@@ -34,6 +34,9 @@ The corpus of the dissertation where most of this code was explained is in spani
 
 With more time I will try to comment at least the configuration files. If you need to use this software and have any problem with it just send me a message and I will be happy to help you configure it.
 
+The full dissertation describing this project (in spanish) can be found on:
+http://academica-e.unavarra.es/bitstream/handle/2454/11645/TFG_DominguezCatenaDaniel2014.pdf?sequence=1
+
 If you need something more powerful, you can look for the commercial software Eureqa by Nutonian at
 http://www.nutonian.com/products/eureqa/
 
