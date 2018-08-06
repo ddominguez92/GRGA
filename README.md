@@ -1,6 +1,6 @@
 # Symbolic Regression Engine
 
-This project was developed by Daniel Dominguez Catena in the year 2014, as part of his final project on the Degree on Computer Science of the Public University of Navarre (UPNA).
+This project was developed by Iris Dominguez Catena in the year 2014, as part of his final project on the Degree on Computer Science of the Public University of Navarre (UPNA).
 
 The code is given as is, with no warranty whatsoever. Any kind of contribution will be wellcome.
 
